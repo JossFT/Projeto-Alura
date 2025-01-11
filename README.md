@@ -2,7 +2,7 @@
 
 **O que essa aplicação faz?**
 
-Se é fã de esportes e quer saber um pouco sobre seu atleta favorito ou sobre uma modalidade específica. Essa aplicação vai te ajuda a encontrar as informações que você precisa de forma rápida e fácil. 
+Se é fã de esportes e quer dar um aufrade no projeto com seu atleta favorito ou sobre uma modalidade específica. Essa aplicação vai te ajuda a encontrar as informações que você precisa de forma rápida e fácil. 
 
 **Como ela funciona?**
 
@@ -16,5 +16,5 @@ Se é fã de esportes e quer saber um pouco sobre seu atleta favorito ou sobre u
 * CSS: Deixa tudo bonitinho e organizado, com cores e fontes legais.
 * JavaScript: A parte mais inteligente da aplicação! É o JavaScript que faz a pesquisa, compara os dados e mostra os resultados na tela.
 
-*É uma base inicial e está aqui para ser enriquecida com seu atleta favorito!!!
+*Cono sou iniciante é um projeto básico!!
 
