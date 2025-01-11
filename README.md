@@ -16,5 +16,5 @@ Se é fã de esportes e quer dar um aufrade no projeto com seu atleta favorito o
 * CSS: Deixa tudo bonitinho e organizado, com cores e fontes legais.
 * JavaScript: A parte mais inteligente da aplicação! É o JavaScript que faz a pesquisa, compara os dados e mostra os resultados na tela.
 
-*Projeto bem básico elaborato junto com os intrutores básico!!
+*Projeto bem básico elaborado junto com os instrutores básico!!
 
