@@ -17,4 +17,10 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
         tags: "ginástica ginastica ouro"
     }
+    {
+        titulo: "Éder Jofre",
+        descricao: "Éder Jofre é, sem sombra de dúvida, um dos maiores pugilistas da história do Brasil e um dos mais respeitados boxeadores de todos os tempos no mundo. Conhecido como o "Galo de Ouro", conquistou o coração dos brasileiros com sua habilidade, garra e humildade.",
+        link: "https://https://pt.wikipedia.org/wiki/%C3%89der_Jofre",
+        tags: "icone do boxe brasileiro"
+    }
 ];
